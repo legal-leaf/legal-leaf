@@ -1,4 +1,4 @@
-### The world’s first community cannabis legalization 420 Coin. A space dedicated to the promotion and achievement of the global legalization of cannabis.
+### Legal Leaf is the world’s first community cannabis legalization 420 Coin.
 
 <!--
 **legal-leaf/legal-leaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
